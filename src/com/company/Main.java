@@ -17,5 +17,9 @@ public class Main {
         System.out.println("dnowa galaz A2asdasdasdadsewrwerwerrwaa");
         System.out.println("dorzucinowa galaz A2asdasdasdadsay od Aewrwerwerrtura");
         System.out.println("dorzuciłłem nowa galaz A2asdasdasdadsasdfsefewfwewefrtura");
+        System.out.println("dorzucielem cos jeszcze");
+        System.out.println("dorzucielem cos jeszcze");
+        System.out.println("dorzucielem cos jeszcze");
+
     }
 }
