@@ -8,5 +8,9 @@ public class Main {
         System.out.println("druga");
         System.out.println("i ostatnia");
         System.out.println("odartura");
+
+        System.out.println("odartura1");
+        System.out.println("odartura2");
+        System.out.println("odartura3");
     }
 }
