@@ -12,5 +12,8 @@ public class Main {
         System.out.println("odartura1");
         System.out.println("odartura2");
         System.out.println("odartura3");
+        System.out.println("dorzucielem cos jeszcze");
+        System.out.println("dorzucielem cos jeszcze");
+        System.out.println("dorzucielem cos jeszcze");
     }
 }
